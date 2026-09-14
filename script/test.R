@@ -57,5 +57,6 @@ summary(bts$btsposition)
 # factor 변수는 “값(일반 벡터)”에 “level”(문자열과 숫자를 대응)이라는 정보를 추가한 것이다. default로
 # level의 값이 부여되지만 이를 수정할 수도 있다.
 
+#안녕
   
 
